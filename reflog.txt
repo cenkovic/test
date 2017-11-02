@@ -1,0 +1,7 @@
+bf7c2dc HEAD@{0}: checkout: moving from 49db94dce57a8bf1b73cfd22472c690b6de93eb6 to test
+49db94d HEAD@{1}: commit (cherry-pick): test - reflog file
+f27b275 HEAD@{2}: checkout: moving from test to f27b2755615bae169fdf78bce4f5b20295d79e1e
+bf7c2dc HEAD@{3}: commit: dog - File Dog.js checkout from dog branch
+1388f07 HEAD@{4}: commit: test - implement getFullName method
+0a58ee0 HEAD@{5}: checkout: moving from master to test
+0a58ee0 HEAD@{6}: clone: from https://github.com/DaliborkaCiric/test
