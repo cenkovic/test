@@ -1,0 +1,7 @@
+2790453 HEAD@{0}: commit: Checkout dog file
+577e5c9 HEAD@{1}: commit (cherry-pick): Checkout dog file
+d06dd2b HEAD@{2}: checkout: moving from master to test
+0a58ee0 HEAD@{3}: checkout: moving from test to master
+d06dd2b HEAD@{4}: commit: Test - get full name implementation
+0a58ee0 HEAD@{5}: checkout: moving from master to test
+0a58ee0 HEAD@{6}: clone: from https://github.com/milica-stevanovic/test
