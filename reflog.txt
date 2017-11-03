@@ -1,0 +1,12 @@
+ce75665 HEAD@{0}: commit: test - reflog
+3911b50 HEAD@{1}: commit (cherry-pick): test - cherry pick
+bf7c2dc HEAD@{2}: reset: moving to bf7c2dc0faa903d72e6f9b7dd409bf05eb083df9
+90b963b HEAD@{3}: checkout: moving from test to test
+90b963b HEAD@{4}: commit (cherry-pick): test - reflog
+bf7c2dc HEAD@{5}: checkout: moving from 49db94dce57a8bf1b73cfd22472c690b6de93eb6 to test
+49db94d HEAD@{6}: commit (cherry-pick): test - reflog file
+f27b275 HEAD@{7}: checkout: moving from test to f27b2755615bae169fdf78bce4f5b20295d79e1e
+bf7c2dc HEAD@{8}: commit: dog - File Dog.js checkout from dog branch
+1388f07 HEAD@{9}: commit: test - implement getFullName method
+0a58ee0 HEAD@{10}: checkout: moving from master to test
+0a58ee0 HEAD@{11}: clone: from https://github.com/DaliborkaCiric/test
