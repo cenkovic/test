@@ -1,3 +1,10 @@
 class Dog {
-  toString = () => 'cat';
+  toString = () => 'dog';
+<<<<<<< HEAD
+=======
+}
+
+class Cat {
+  toStrng = () => 'cat';
+>>>>>>> f27b275... Cat fix
 }

@@ -6,7 +6,7 @@ class Person {
   }
 
   getFullName() {
-    //@TODO Missing implementation
+    return "My name is: " + this.firstName + ", and my lastname is: " + this.lastName;
   }
 
 }
