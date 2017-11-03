@@ -1,0 +1,7 @@
+53d5974 HEAD@{0}: commit (cherry-pick): Cat fix
+7bdc14c HEAD@{1}: commit: Checked out Dog.js
+46c782b HEAD@{2}: checkout: moving from dog to test
+46c782b HEAD@{3}: checkout: moving from test to dog
+46c782b HEAD@{4}: commit: Changes in Person.js
+0a58ee0 HEAD@{5}: checkout: moving from master to test
+0a58ee0 HEAD@{6}: clone: from git@github.com:lukapropulsionapps/test.git
