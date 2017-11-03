@@ -1,0 +1,8 @@
+b5ab1cc HEAD@{0}: commit (cherry-pick): merge conflict resolved
+9e4aa48 HEAD@{1}: reset: moving to 9e4aa48864eb9f891e05c4f6060bc7aeaa2f8759
+9e4aa48 HEAD@{2}: commit: Checkout Dog.js fajl
+38b8b5b HEAD@{3}: checkout: moving from master to test
+0a58ee0 HEAD@{4}: checkout: moving from test to master
+38b8b5b HEAD@{5}: commit: test - getFullName method
+0a58ee0 HEAD@{6}: checkout: moving from master to test
+0a58ee0 HEAD@{7}: clone: from git@github.com:DaniloGrebovic/test.git
