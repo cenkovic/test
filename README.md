@@ -8,8 +8,8 @@
 4. Implementirati metodu getFullName u Person klasi.
 Implementacija nebitna. Bitno je da postoji barem neka promena u toj metodi da bi fajl mogao da se komituje
 5. Komitovati promne iz Person klase
-6. Checkautovati fajl Dog.js na kod iz brancha `dog`;
-7. "Cherry-pickovati" commit `f27b2755615bae169fdf78bce4f5b20295d79e1e` iz brancha `cat`;
+6. Checkautovati fajl Dog.js na kod iz brancha `dog` i komitovati fajl;
+7. Uvuci commit `f27b2755615bae169fdf78bce4f5b20295d79e1e` iz brancha `cat`;
 8. Napraviti `reflog` fajl i ceo output `git reflog` komande upisati u taj fajl
 9. Komitovati `reflog` fajl
 10. Pushovati promene na github u test branch
