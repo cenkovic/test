@@ -1,3 +1,3 @@
 class Dog {
-  toString = () => 'cat';
+  toString = () => 'dog';
 }
