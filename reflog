@@ -1,0 +1,6 @@
+417c90b HEAD@{0}: commit: dodao dog fajl
+fd9a0dd HEAD@{1}: checkout: moving from dog to test
+0b055ef HEAD@{2}: checkout: moving from test to dog
+fd9a0dd HEAD@{3}: commit: Testic testic promenjeno promenjeno
+0a58ee0 HEAD@{4}: checkout: moving from master to test
+0a58ee0 HEAD@{5}: clone: from https://github.com/mvelebit/test

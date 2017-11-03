@@ -6,7 +6,7 @@ class Person {
   }
 
   getFullName() {
-    //@TODO Missing implementation
+ 	console.log(this.firstName)
   }
 
 }
