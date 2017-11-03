@@ -1,0 +1,20 @@
+73d35f1 HEAD@{0}: commit (cherry-pick): dragutin, izmene -dog- after merge from cat
+0bb7196 HEAD@{1}: rebase -i (finish): returning to refs/heads/test
+0bb7196 HEAD@{2}: rebase -i (start): checkout master
+6dc722c HEAD@{3}: commit (cherry-pick): dragutin, izmene -dog-
+0bb7196 HEAD@{4}: checkout: moving from cat to test
+5f3f22d HEAD@{5}: rebase -i (finish): returning to refs/heads/cat
+5f3f22d HEAD@{6}: rebase -i (pick): cat bad fix
+c21d430 HEAD@{7}: rebase -i (pick): Cat fix
+c6486b9 HEAD@{8}: rebase -i (pick): Cat init
+b9d2046 HEAD@{9}: rebase -i (pick): dog fix
+0a58ee0 HEAD@{10}: rebase -i (start): checkout master
+fa26ffa HEAD@{11}: checkout: moving from test to cat
+0bb7196 HEAD@{12}: checkout: moving from cat to test
+fa26ffa HEAD@{13}: checkout: moving from test to cat
+0bb7196 HEAD@{14}: commit: dragutin, izmene -dog-
+71d4767 HEAD@{15}: checkout: moving from dog to test
+0b055ef HEAD@{16}: checkout: moving from test to dog
+71d4767 HEAD@{17}: commit: dragutin, izmene
+0a58ee0 HEAD@{18}: checkout: moving from master to test
+0a58ee0 HEAD@{19}: clone: from git@github.com:sdragutin/test.git
