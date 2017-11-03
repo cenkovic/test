@@ -1,0 +1,6 @@
+2f2bb69 HEAD@{0}: commit: drugi komit
+70e7899 HEAD@{1}: commit: prvi komit
+0a58ee0 HEAD@{2}: checkout: moving from master to test
+0a58ee0 HEAD@{3}: checkout: moving from test to master
+0a58ee0 HEAD@{4}: checkout: moving from master to test
+0a58ee0 HEAD@{5}: clone: from git@github.com:stefanpropulsion/test.git

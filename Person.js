@@ -6,7 +6,7 @@ class Person {
   }
 
   getFullName() {
-    //@TODO Missing implementation
+    fullName = Person.firstname + ' ' + Person.lastname;
   }
 
 }
